@@ -4,7 +4,8 @@
         "About": "About",
         "Prices": "Prices",
         "Contact": "Contact",
-        "Blog": "Blog"
+        "Blog": "Blog",
+        "menu": "Menu"
     },
     "msg": "hello i18n !!",
     "about": {

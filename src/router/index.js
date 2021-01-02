@@ -3,6 +3,8 @@ import VueRouter from 'vue-router'
 import i18n from '../i18n'
 import Landing from '../views/Landing.vue'
 import About from '../views/About.vue'
+import Contact from '../views/Contact.vue'
+import Blog from '../views/Blog.vue'
 
 Vue.use(VueRouter)
 
@@ -28,6 +30,16 @@ const routes = [
         path: 'about',
         name: "About",
         component: About
+      },
+      {
+        path: 'contact',
+        name: 'Contact',
+        component: Contact
+      },
+      {
+        path: 'blog',
+        name: 'Blog',
+        component: Blog
       }
     ]
   }
