@@ -1,6 +1,6 @@
 {
     "msg": "hello i18n !!",
-    "nav": {
-        "Home": "Home"
+    "about": {
+        "land": "english about"
     }
 }
