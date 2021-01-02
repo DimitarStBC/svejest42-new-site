@@ -1,4 +1,11 @@
 {
+    "nav": {
+        "Home": "Начало",
+        "About": "За нас",
+        "Prices": "Цени",
+        "Contact": "Контакти",
+        "Blog": "Блог"
+    },
     "msg": "zdrasti",
     "about": {
         "land": "bg about"

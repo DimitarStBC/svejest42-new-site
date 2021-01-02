@@ -1,4 +1,11 @@
 {
+    "nav": {
+        "Home": "Home",
+        "About": "About",
+        "Prices": "Prices",
+        "Contact": "Contact",
+        "Blog": "Blog"
+    },
     "msg": "hello i18n !!",
     "about": {
         "land": "english about"
